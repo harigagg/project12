@@ -1,0 +1,19 @@
+traces 1-4: Amplitute  -> Log magnitute
+traces 5-8: Phase
+traces 9-12: time domain  -> Linear magnitude
+
+data to memory
+data minus memory
+
+data and trace -> to freeze the signals
+
+Run the micro
+
+1.check for the cal file
+2.check for the frequency points
+3.check for the frequency (18GHz-26GHz)
+4.check for time gating - 7-11ns for 1.2m
+5.check for transform function 
+
+
+
